@@ -6,3 +6,5 @@ requirements
 versions
 ->python 3.4
 -> opencv
+->haarcascade
+-> cam
